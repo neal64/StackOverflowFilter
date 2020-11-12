@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Spacing Size -->
+    <dimen name="medium_space">10dp</dimen>
+    <dimen name="view_height">1dp</dimen>
+
+    <!-- TextSizes -->
+    <dimen name="small_size">16sp</dimen>
+    <dimen name="medium_size">18sp</dimen>
+    <dimen name="large_size">20sp</dimen>
+</resources>

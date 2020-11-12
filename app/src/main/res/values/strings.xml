@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StackOverflow  Filter</string>
+    <string name="str_answers_count">Answer : %1$s</string>
+    <string name="str_view_count">Views : %1$s</string>
 </resources>
